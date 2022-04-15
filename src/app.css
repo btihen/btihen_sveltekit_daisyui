@@ -1,0 +1,23 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-default: #f2f3f4;
+}
+@media (prefers-color-scheme: garden) {
+  :root {
+    --my-color: #252b30;
+  }
+}
+/* [data-theme='dark'] {
+  --my-color: #2f3041;
+} */
+
+/* [data-theme='garden'] {
+  --my-color: #f2f3f4;
+} */
+/* body {
+  background-color: var(--my-color);
+} */
