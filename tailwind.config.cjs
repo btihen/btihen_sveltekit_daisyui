@@ -12,7 +12,7 @@ const config = {
       {
         // corporate - light
         btihen: {
-          primary: "#2d8659", // "#4b6bfb",
+          primary: "#4b6bfb", // "#2d8659", // "#4b6bfb",
           secondary: "#3399ff", // "#4da6ff", // "#7b92b2",
           accent: "#67cba0",
           neutral: "#181a2a",
@@ -22,7 +22,7 @@ const config = {
         },
         // business / darker
         marpori: {
-          primary: "#206040", // "#1C4E80",
+          primary: "#004d99", //"#206040", // "#1C4E80",
           secondary: "#004d99", // "#7C909A",
           accent: "#EA6947",
           neutral: "#23282E",
