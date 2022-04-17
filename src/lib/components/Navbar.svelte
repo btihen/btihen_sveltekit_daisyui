@@ -10,8 +10,8 @@
 </script>
 
 <navbar>
-  <div class="bg-black h-1.5"></div>
-  <div class="flex items-center justify-center sticky top-0 z-50 bg-primary">
+  <div class="bg-black h-2.5"></div>
+  <div class="flex items-center justify-center sticky top-0 z-50 bg-green-700">
 
     <div class="navbar w-4/5">
 
@@ -48,7 +48,7 @@
       </div>
 
       <div class="navbar-center">
-        <a href="/" class="btn btn-ghost normal-case text-xl">btihen.dev</a>
+        <a href="/" class="btn btn-ghost normal-case text-2xl">btihen.dev</a>
       </div>
 
       <div class="navbar-end space-x-2">
