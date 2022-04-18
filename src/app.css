@@ -6,7 +6,7 @@
 :root {
   --color-default: #f2f3f4;
 }
-@media (prefers-color-scheme: garden) {
+@media (prefers-color-scheme: btihenl) {
   :root {
     --my-color: #252b30;
   }

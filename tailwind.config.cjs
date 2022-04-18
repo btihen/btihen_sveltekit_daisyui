@@ -12,8 +12,8 @@ const config = {
       {
         // corporate adapted light
         btihenl: {
-          primary: "#3985ff", // "#1F75FF", // "#4b6bff", // "#2d8659", // "#4b6bfb",
-          secondary: "#7bc8a4",  // "#57b88c", // "#16b34a", //"#1eb854", //"#3399ff", // "#4da6ff", // "#7b92b2",
+          primary: "#5aa867", // "#57b98b", // "#3985ff", // "#1F75FF", // "#4b6bff", // "#2d8659", // "#4b6bfb",
+          secondary: "#0080bc", // "#2075ff", // "#7bc8a4", // "#57b88c", // "#16b34a", //"#1eb854", //"#3399ff", // "#4da6ff", // "#7b92b2",
           accent: "#f1db85", // "#ecce57", // "#F7F9CA", // "#EA6947",
           neutral: "#3a3a3a", // "#181a2a",
           "neutral-content": "#edf2f7",
@@ -26,8 +26,8 @@ const config = {
         },
         // business adapted darker
         btihend: {
-          primary: "#004d99", //"#22228B", //"#206040", // "#1C4E80",
-          secondary: "#7bc8a4",  // "#57b88c", // "#16b34a", //"#1eb854", //"#3399ff", // "#4da6ff", // "#7b92b2",
+          primary: "#5aa867", //"#57b98b", //"#004d99", //"#22228B", //"#206040", // "#1C4E80",
+          secondary: "#0080bc", // "#2075ff", // "#7bc8a4",  // "#57b88c", // "#16b34a", //"#1eb854", //"#3399ff", // "#4da6ff", // "#7b92b2",
           accent: "#f1db85", // "#ecce57", // "#F7F9CA", // "#EA6947",
           neutral: "#23282E",
           "base-100": "#3a3a3a", // "#202020",

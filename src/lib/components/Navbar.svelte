@@ -11,7 +11,7 @@
 
 <navbar>
   <div class="bg-black h-2.5"></div>
-  <div class="flex items-center justify-center sticky top-0 z-50 bg-green-700">
+  <div class="flex items-center justify-center sticky top-0 z-50 bg-blue-500">
 
     <div class="navbar w-4/5">
 
@@ -52,16 +52,6 @@
       </div>
 
       <div class="navbar-end space-x-2">
-        <!--
-        <div class="form-control hidden md:form-control">
-          <input type="text" placeholder="Search" class="input input-bordered">
-        </div>
-        -->
-        <!-- <select data-choose-theme>
-          <option value="">Default</option>
-          <option value="btihenl">Light</option>
-          <option value="btihend">Dark</option>
-        </select> -->
         <!-- sun - heroicon.dev -->
         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path>

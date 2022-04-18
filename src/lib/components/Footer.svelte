@@ -1,4 +1,4 @@
-<footer class="flex items-center justify-center p-4 bg-green-700 shadow-md">
+<footer class="flex items-center justify-center p-2 bg-gray-500 shadow-md">
   <div class="footer w-4/5">
     <div class="items-center grid-flow-col place-self-center md:place-self-start">
       <a href="/" class="btn btn-ghost normal-case text-2xl">btihen.dev</a>
