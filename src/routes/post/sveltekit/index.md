@@ -386,6 +386,16 @@ cat <<EOF>>src/routes/__layout.svelte
 EOF
 ```
 
+## SVG Images
+
+https://stackoverflow.com/questions/66069647/best-way-to-import-svg-icons-into-a-svelte-app
+
+```bash
+npm i -D rollup-plugin-svelte-svg
+```
+
+
+
 ## Markdown Setup
 
 ### Front-mater

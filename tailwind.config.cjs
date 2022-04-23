@@ -17,12 +17,14 @@ const config = {
           accent: "#f1db85", // "#ecce57", // "#F7F9CA", // "#EA6947",
           neutral: "#3a3a3a", // "#181a2a",
           "neutral-content": "#edf2f7",
-          "base-100": "#f0f8ff", // "#e9e7e7", // "#ffffff",
+          "base-100": "#FFFBEB", // "#e9e7e7", // "#ffffff", // (yellow-50)
+          // "base-100": "#f0f8ff", // "#e9e7e7", // "#ffffff", // blueish // #F0F9FF (light-blue-50)
           "base-content": "#100f0f", //"#181a2a",
           info: "#0080bc", // "#0091D5",
           success: "#5aa867", // "#6bb176", // "#6BB187",
           warning: "#d29a2f", // "#DBAE59",
           error: "#b53729", // "#AC3E31",
+          // "code-bg-color": "#f1db85", // "#f1db85",
         },
         // business adapted darker
         btihend: {
@@ -35,6 +37,7 @@ const config = {
           success: "#5aa867", // "#6bb176", // "#6BB187",
           warning: "#d29a2f", // "#DBAE59",
           error: "#b53729", // "#AC3E31",
+          // "code-bg-color": "#f1db85", // "#f1db85",
         },
         // // autumn adapted - light
         // marporil: {
