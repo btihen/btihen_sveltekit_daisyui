@@ -10,8 +10,8 @@
 <div class="card md:card-side bg-base-100 shadow-lg">
   <figure class="md:w-2/6"><img src={fun} alt="Album" ></figure>
   <div class="card-body">
-    <h2 class="card-title">New album is released!</h2>
-    <p>Click the button to listen on Spotiwhy app.</p>
+    <h2 class="card-title">Crazy Currious</h2>
+    <p>Explore ideas and technologies</p>
     <div class="card-actions justify-end">
       <button class="btn btn-primary">Contact</button>
     </div>
