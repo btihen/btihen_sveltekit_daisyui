@@ -4,7 +4,7 @@ import { defineMDSveXConfig as defineConfig } from "mdsvex";
 import relativeImages from 'mdsvex-relative-images'
 
 // control opening of external links
-import rehypeExternalLinks from 'rehype-external-links'
+// import rehypeExternalLinks from 'rehype-external-links'
 
 // add reading time to posts
 // import readingTime from 'remark-reading-time'
@@ -32,21 +32,21 @@ const config = defineConfig({
     relativeImages,
     // external links open in a new tab
   ],
-  rehypePlugins: [
-    // slugPlugin,
-    // [
-    //   autolinkHeadings,
-    //   {
-    //     behavior: 'wrap',
-    //   },
-    // ],
-    [
-      rehypeExternalLinks,
-      {
-        target: '_blank', rel: 'noopener'
-      }
-    ],
-  ],
+  // rehypePlugins: [
+  //   // slugPlugin,
+  //   // [
+  //   //   autolinkHeadings,
+  //   //   {
+  //   //     behavior: 'wrap',
+  //   //   },
+  //   // ],
+  //   [
+  //     rehypeExternalLinks,
+  //     {
+  //       target: '_blank', rel: 'noopener'
+  //     }
+  //   ],
+  // ],
 });
 
 export default config;

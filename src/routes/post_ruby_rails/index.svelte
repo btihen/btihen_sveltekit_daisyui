@@ -1,25 +1,25 @@
 <!-- src/routes/blog/index.svelte -->
 <script context="module">
   export const load = async ({ fetch }) => {
-    const jsPosts = await fetch('/api/post_javascript.json')
-    const allJsPosts = await jsPosts.json()
+    const rubyPosts = await fetch('/api/post_ruby_rails.json')
+    const allRubyPosts = await rubyPosts.json()
 
     return {
       props: {
-        js_posts: allJsPosts
+        ruby_posts: allRubyPosts
       }
     }
   }
 </script>
 
 <script>
-  export let js_posts
+  export let ruby_posts
 </script>
 
 <h1>Javascript Posts</h1>
 
 <ul>
-  {#each js_posts as post}
+  {#each ruby_posts as post}
     <li>
       <h2>
         <a href={post.path}>
